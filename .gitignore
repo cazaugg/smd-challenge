@@ -1,0 +1,17 @@
+### KiCad ###
+
+# Project local settings
+*.kicad_prl
+
+# Local backup folders
+*-backup/
+fp-info-cache
+
+# Ignore generated files (eg BOM)
+# Put them into prod/ folder
+pcb/*.xml
+pcp/*.csv
+pcp/*.html
+
+# General
+*.zip

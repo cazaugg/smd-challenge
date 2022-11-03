@@ -1,0 +1,6 @@
+[submodule "pcb/lib/official-symbols"]
+	path = pcb/lib/official-symbols
+	url = https://gitlab.com/kicad/libraries/kicad-symbols.git
+[submodule "pcb/lib/official-footprints"]
+	path = pcb/lib/official-footprints
+	url = https://gitlab.com/kicad/libraries/kicad-footprints.git

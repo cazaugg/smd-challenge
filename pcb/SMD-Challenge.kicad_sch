@@ -1,0 +1,81 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid d913ba05-15f1-44ee-8326-7da2eae15cee)
+
+  (paper "A4")
+
+  (title_block
+    (title "SMD-Challenge")
+    (date "03. November 2022")
+    (rev "00")
+    (company "Chris")
+  )
+
+  (lib_symbols
+    (symbol "Device:R" (pin_numbers hide) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+      (property "Reference" "R" (id 0) (at 2.032 0 90)
+        (effects (font (size 1.27 1.27)))
+      )
+      (property "Value" "R" (id 1) (at 0 0 90)
+        (effects (font (size 1.27 1.27)))
+      )
+      (property "Footprint" "" (id 2) (at -1.778 0 90)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Datasheet" "~" (id 3) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_keywords" "R res resistor" (id 4) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_description" "Resistor" (id 5) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_fp_filters" "R_*" (id 6) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "R_0_1"
+        (rectangle (start -1.016 -2.54) (end 1.016 2.54)
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+      )
+      (symbol "R_1_1"
+        (pin passive line (at 0 3.81 270) (length 1.27)
+          (name "~" (effects (font (size 1.27 1.27))))
+          (number "1" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at 0 -3.81 90) (length 1.27)
+          (name "~" (effects (font (size 1.27 1.27))))
+          (number "2" (effects (font (size 1.27 1.27))))
+        )
+      )
+    )
+  )
+
+
+  (symbol (lib_id "Device:R") (at 153.67 92.71 90) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 7a4ce4b3-518a-4819-b8b2-5127b3347c64)
+    (property "Reference" "R?" (id 0) (at 153.67 86.36 90))
+    (property "Value" "" (id 1) (at 153.67 88.9 90))
+    (property "Footprint" "" (id 2) (at 153.67 94.488 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 153.67 92.71 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 29e058a7-50a3-43e5-81c3-bfee53da08be))
+    (pin "2" (uuid 5cf2db29-f7ab-499a-9907-cdeba64bf0f3))
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+
+  (symbol_instances
+    (path "/7a4ce4b3-518a-4819-b8b2-5127b3347c64"
+      (reference "R?") (unit 1) (value "R") (footprint "")
+    )
+  )
+)
