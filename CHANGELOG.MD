@@ -12,6 +12,12 @@ Possible log types:
 
 ## Unreleased
 
-## v0.0.0
+- `[added]` Button to turn blinkey off
+- `[removed]` Resistors are not required since battery and driver can not deliver more than few mA
+- `[changed]` Upgraded to KiCad 6
+
+## v1.0.0
+
+- `[added]` First prototype
 
 ***(c)2022 by Chris***
