@@ -4,6 +4,8 @@
 
 This is a little SMD soldering challenge with Moser Baer branding. Used to teach soldering and teach people about electronics.
 
+Version one used 1206 to 0201 chips and is quite difficult. Version two is simplified and only uses 1206 to 0603 cips.
+
 ## Workflow and project organization
 
 - [PCB design and part libraries](pcb/pcb-info.md)
@@ -12,6 +14,6 @@ This is a little SMD soldering challenge with Moser Baer branding. Used to teach
 
 ## Tools
 
-Made with KiCad 6.
+Made with KiCad 7.
 
-***(c)2022 by C. Zaugg***
+***(c)2023 by C. Zaugg***

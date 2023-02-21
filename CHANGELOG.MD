@@ -12,12 +12,16 @@ Possible log types:
 
 ## Unreleased
 
-- `[added]` Button to turn blinkey off
-- `[removed]` Resistors are not required since battery and driver can not deliver more than few mA
-- `[changed]` Upgraded to KiCad 6
+## v2.0.0 2023-02-21 Simplified Version for Avanti
 
-## v1.0.0
+- `[fixed]` Both GND Planes are now connected
+- `[added]` Slide Switch added to turn blinking off
+- `[removed]` Resistors removed as battery current is not large enough to damage LED
+- `[removed]` 0402 and 0201 chips removed to simplify soldering
+- `[chore]` Upgraded to KiCad 7
 
-- `[added]` First prototype
+## v1.0.0 2023-01-30 First Draft
 
-***(c)2022 by Chris***
+- `[added]` First Draft of PCB
+
+***(c)2022 by C. Zaugg***
