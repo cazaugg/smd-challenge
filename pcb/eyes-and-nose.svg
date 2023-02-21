@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1775"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Zeichnung-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1777"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74118967"
+     inkscape:cx="213.8454"
+     inkscape:cy="339.31935"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1772">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-9"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 141.88623,149.12035 c -0.83708,0 -1.52041,1.58875 -1.52041,3.55334 0,1.96458 0.68333,3.55333 1.52041,3.55333 0.85417,0 1.5375,-1.58875 1.5375,-3.55333 0,-1.96459 -0.68333,-3.55334 -1.5375,-3.55334 z"
+       id="path1930" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 128.68082,148.40285 c -0.83709,0 -1.52042,1.60584 -1.52042,3.55334 0,1.96458 0.68333,3.57041 1.52042,3.57041 0.85416,0 1.5375,-1.60583 1.5375,-3.57041 0,-1.9475 -0.68334,-3.55334 -1.5375,-3.55334 z"
+       id="path1932" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
+       d="m 135.37748,158.68702 c -2.10125,0 -3.7925,1.09333 -3.7925,2.46 0,1.34958 1.69125,2.44292 3.7925,2.44292 2.10125,0 3.7925,-1.09334 3.7925,-2.44292 0,-1.36667 -1.69125,-2.46 -3.7925,-2.46 z"
+       id="path1934" />
+  </g>
+</svg>
