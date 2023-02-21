@@ -2,7 +2,7 @@
 
 ## Project description
 
-This is where your PCB description goes. If you want to learn more about this template look at [kicad-wizard]([script/kicad-wizard.md](https://gitlab.com/christoph.zaugg/kicad-template-repo/-/blob/master/script/kicad-wizard.md)
+This is a little SMD soldering challenge with Moser Baer branding. Used to teach soldering and teach people about electronics.
 
 ## Workflow and project organization
 
@@ -14,4 +14,4 @@ This is where your PCB description goes. If you want to learn more about this te
 
 Made with KiCad 6.
 
-***(c)2022 by Chris***
+***(c)2022 by C. Zaugg***
