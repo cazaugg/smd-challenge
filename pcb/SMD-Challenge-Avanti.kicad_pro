@@ -57,12 +57,9 @@
         }
       ],
       "drc_exclusions": [
-        "clearance|140400000|62390000|b512c576-1554-4ddf-b717-b7537e371424|fce6ce2f-95a0-4f00-ba5d-f97b76879c3c",
-        "clearance|140400000|63090000|b512c576-1554-4ddf-b717-b7537e371424|fce6ce2f-95a0-4f00-ba5d-f97b76879c3c",
-        "clearance|151100000|62390000|0902db38-7c5f-4364-98be-5ad91492bfab|37d08d3f-45f1-4cb7-a1e7-c7739e445350",
-        "clearance|151100000|63190000|0902db38-7c5f-4364-98be-5ad91492bfab|37d08d3f-45f1-4cb7-a1e7-c7739e445350",
         "lib_footprint_issues|145000000|122000000|70b8ef22-63c9-4fda-901b-ed8decd747e6|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|146000000|117000000|47bccf9e-81f4-4228-8441-29d66d14f48f|00000000-0000-0000-0000-000000000000"
+        "lib_footprint_issues|146000000|117000000|47bccf9e-81f4-4228-8441-29d66d14f48f|00000000-0000-0000-0000-000000000000",
+        "via_dangling|160750000|81650000|162c2d80-d2c2-4654-897c-fd4dff380548|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
         "version": 2
@@ -403,7 +400,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "error",
@@ -418,7 +415,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "SMD-Challenge.kicad_pro",
+    "filename": "SMD-Challenge-Avanti.kicad_pro",
     "version": 1
   },
   "net_settings": {

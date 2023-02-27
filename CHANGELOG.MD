@@ -12,6 +12,16 @@ Possible log types:
 
 ## Unreleased
 
-## v0.0.0
+## v2.0.0 2023-02-21 Simplified Version for Avanti
 
-***(c)2022 by Chris***
+- `[fixed]` Both GND Planes are now connected
+- `[added]` Slide Switch added to turn blinking off
+- `[removed]` Resistors removed as battery current is not large enough to damage LED
+- `[removed]` 0402 and 0201 chips removed to simplify soldering
+- `[chore]` Upgraded to KiCad 7
+
+## v1.0.0 2023-01-30 First Draft
+
+- `[added]` First Draft of PCB
+
+***(c)2022 by C. Zaugg***
