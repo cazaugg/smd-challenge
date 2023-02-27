@@ -7,7 +7,7 @@
   (title_block
     (title "SMD-Challenge-Avanti")
     (date "2023-01-30")
-    (rev "v2.0.0")
+    (rev "v2.0.1")
     (company "(c) by C. Zaugg")
     (comment 1 "Made for Avanti 2023")
     (comment 2 "SMD Soldering from 1206 to 0603 Chip Sizes")
