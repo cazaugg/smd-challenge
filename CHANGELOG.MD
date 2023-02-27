@@ -12,6 +12,11 @@ Possible log types:
 
 ## Unreleased
 
+## v2.0.1 2023-02-27 Ready for Avanti
+
+- `[fixed]` Switched D3 and D4 order so blink pattern goes around in a circle (clockwise)
+- `[fixed]` Corrected a typo in a copper text
+
 ## v2.0.0 2023-02-21 Simplified Version for Avanti
 
 - `[fixed]` Both GND Planes are now connected
