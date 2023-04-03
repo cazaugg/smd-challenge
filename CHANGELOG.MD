@@ -12,17 +12,17 @@ Possible log types:
 
 ## Unreleased
 
-## [v1.1.0] 2023-03-04 Fixed difficult version
+## `[v1.1.0]` 2023-03-04 Fixed difficult version
 
 - `[fixed]` Added all fixes from v2.0.0 exept not removing smaller LED
 - `[changed]` Smaller thermal spoke width for simler soldering
 
-## [v2.0.1] 2023-02-27 Ready for Avanti
+## `[v2.0.1]` 2023-02-27 Ready for Avanti
 
 - `[fixed]` Switched D3 and D4 order so blink pattern goes around in a circle (clockwise)
 - `[fixed]` Corrected a typo in a copper text
 
-## [v2.0.0] 2023-02-21 Simplified Version for Avanti
+## `[v2.0.0]` 2023-02-21 Simplified Version for Avanti
 
 - `[fixed]` Both GND Planes are now connected
 - `[added]` Slide Switch added to turn blinking off
@@ -30,7 +30,7 @@ Possible log types:
 - `[removed]` 0402 and 0201 chips removed to simplify soldering
 - `[chore]` Upgraded to KiCad 7
 
-## [v1.0.0] 2023-01-30 First Draft
+## `[v1.0.0]` 2023-01-30 First Draft
 
 - `[added]` First Draft of PCB
 
