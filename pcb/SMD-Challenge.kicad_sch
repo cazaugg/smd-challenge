@@ -7,9 +7,9 @@
   (title_block
     (title "SMD-Challenge")
     (date "2023-01-30")
-    (rev "v1.0.0")
+    (rev "v1.1.0")
     (company "(c) by C. Zaugg")
-    (comment 3 "Moser Baer branding")
+    (comment 3 "Moser Baer Branding")
     (comment 4 "SMD - Challenge Badge")
   )
 

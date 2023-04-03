@@ -9,8 +9,8 @@ Version one used 1206 to 0201 chips and is quite difficult. Version two is simpl
 ## Workflow and project organization
 
 - [PCB design and part libraries](pcb/pcb-info.md)
-- [Documentation](pcb/doc-info.md)
-- [Production](pcb/prod-info.md)
+- [Documentation](doc/doc-info.md)
+- [Production](prod/prod-info.md)
 
 ## Tools
 
